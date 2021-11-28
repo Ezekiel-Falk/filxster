@@ -16,7 +16,7 @@
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/SB4Km4a.gif)
+![](https://i.imgur.com/SB4Km4a.gif()
 
 
 
