@@ -16,8 +16,8 @@
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/SB4Km4a.gif()
 
+![ezgif com-gif-maker copy](https://user-images.githubusercontent.com/88115439/143780886-7511e0b7-5059-4efc-be49-5934a66d0bbd.gif)
 
 
 ### Notes
